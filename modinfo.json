@@ -1,14 +1,14 @@
 {
   "author": "wondible",
   "build": "88288",
-  "category": ["units"],
+  "category": ["units", "titans"],
   "context": "server",
   "date": "2015/09/30",
   "description": "Base the Squall (carrier drone) range on a timer instead of degeneration.",
   "display_name": "Timed Squalls",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-timed-squalls.70592/",
   "identifier": "com.wondible.pa.timed_squalls",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
